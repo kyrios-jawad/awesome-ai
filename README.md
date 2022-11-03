@@ -111,7 +111,13 @@ See the [open issues](https://github.com/maksof-jawad/awesome-ai/issues) for a f
 
 <p align="right"><a href="#readme-top"><img alt="back to top" width="25" height="25" src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-Top-keyboard-others-inmotus-design-2.png"/></a></p>
 
+## Awesome AI Projects
+| Project | Repository |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
+<p align="right"><a href="#readme-top"><img alt="back to top" width="25" height="25" src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-Top-keyboard-others-inmotus-design-2.png"/></a></p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
