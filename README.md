@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/maksof-jawad/awesome-ai">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/maksof-jawad/awesome-ai/blob/main/images/logo.webp" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">awesome-ai</h3>
