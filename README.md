@@ -1,6 +1,6 @@
 
 <a name="readme-top"></a>
-
+[![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
