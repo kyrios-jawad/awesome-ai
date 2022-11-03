@@ -17,7 +17,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">awesome-ai</h3>
 
   <p align="center">
     Learn Awesome list of all things AI, ML and deep learning can do
