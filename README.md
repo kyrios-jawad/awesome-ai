@@ -37,9 +37,11 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
+      <ol>
+        <li><a href="#roadmap">Roadmap</a></li>
+        <li><a href="#awesome-ai-projects">Awesome AI Projects</a></li>
+      </ol>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-     <li><a href="#awesome-ai-projects">Awesome AI Projects</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -62,21 +64,20 @@ Don't be afraid to repeat videos or learn from multiple sources. Repetition is t
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is an example of how you may get started and get more close to became AI Expert
 
 <p align="right"><a href="#readme-top"><img alt="back to top" width="25" height="25" src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-Top-keyboard-others-inmotus-design-2.png"/></a></p>
 
 <!-- ROADMAP -->
 ## Roadmap
-
-- [x] Add Changelog
+<p>Soon Will add Roadmap to became a AI Expert</p>
+<!-- - [x] Add Changelog
 - [x] Add back to top links
 - [x] Add Additional Templates w/ Examples
 - [x] Add "components" document to easily copy & paste sections of the readme
 - [x] Multi-language Support
     - [x] Chinese
-    - [x] Spanish
+    - [x] Spanish -->
 
 See the [open issues](https://github.com/maksof-jawad/awesome-ai/issues) for a full list of proposed features and known issues.
 
