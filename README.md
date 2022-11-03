@@ -37,10 +37,10 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ol>
+      <ul>
         <li><a href="#roadmap">Roadmap</a></li>
         <li><a href="#awesome-ai-projects">Awesome AI Projects</a></li>
-      </ol>
+      </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
