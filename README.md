@@ -1,6 +1,9 @@
 
 <a name="readme-top"></a>
-
+[![GitHub issues](https://img.shields.io/github/issues/maksof-jawad/awesome-ai)](https://github.com/maksof-jawad/awesome-ai/issues)
+[![GitHub forks](https://img.shields.io/github/forks/maksof-jawad/awesome-ai)](https://github.com/maksof-jawad/awesome-ai/network)
+[![GitHub stars](https://img.shields.io/github/stars/maksof-jawad/awesome-ai)](https://github.com/maksof-jawad/awesome-ai/stargazers)
+[![GitHub license](https://img.shields.io/github/license/maksof-jawad/awesome-ai)](https://github.com/maksof-jawad/awesome-ai/blob/main/LICENSE)
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -68,25 +71,6 @@ Here's why:
 * You should implement DRY principles to the rest of your life :smile:
 
 <p align="right"><a href="#readme-top"><img alt="back to top" width="25" height="25" src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-Top-keyboard-others-inmotus-design-2.png"/></a></p>
-
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right"><a href="#readme-top"><img alt="back to top" width="25" height="25" src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-Top-keyboard-others-inmotus-design-2.png"/></a></p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
