@@ -107,7 +107,7 @@ _Below is an example of how you can instruct your audience on installing and set
     - [x] Chinese
     - [x] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/maksof-jawad/awesome-ai/issues) for a full list of proposed features and known issues.
 
 <p align="right"><a href="#readme-top"><img alt="back to top" width="25" height="25" src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-Top-keyboard-others-inmotus-design-2.png"/></a></p>
 
