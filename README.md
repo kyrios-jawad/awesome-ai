@@ -220,7 +220,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Email - [contact.syedjawad](mailto:contact.syedjawad@gmail.com) - @example.com
+Email - [contact.syedjawad](mailto:contact.syedjawad@gmail.com) - @gmail.com
 
 Project Link: [awesome-ai](https://github.com/maksof-jawad/awesome-ai/)
 
